@@ -1,0 +1,420 @@
+# Translation of Plugins - Performance Lab - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Performance Lab - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-05 16:42:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Performance Lab - Stable (latest release)\n"
+
+#: modules/images/dominant-color/load.php:276
+msgid "Unable to load image."
+msgstr "Impossible de charger l’image."
+
+#. translators: %s: module name
+#: admin/load.php:161
+msgid "%s is already part of your WordPress version and therefore cannot be loaded as part of the plugin."
+msgstr "%s fait déjà partie de votre version de WordPress et ne peut donc pas être chargé comme une partie de l’extension."
+
+#: modules/site-health/audit-full-page-cache/load.php:143
+msgid "A page caching plugin was not detected."
+msgstr "Aucune extension de mise en cache de pages n’a été détectée."
+
+#: modules/site-health/audit-full-page-cache/load.php:140
+msgid "A page caching plugin was detected."
+msgstr "Une extension de mise en cache de pages a été détectée."
+
+#. translators: Placeholder is number of caching headers
+#: modules/site-health/audit-full-page-cache/load.php:126
+msgid " There was %d client caching response header detected: "
+msgid_plural " There were %d client caching response headers detected: "
+msgstr[0] " Il y avait %d en-tête de réponse du client de mise en cache détectée : "
+msgstr[1] " Il y avait %d en-têtes de réponse du client de mise en cache détectées : "
+
+#: modules/site-health/audit-full-page-cache/load.php:121
+msgid "No client caching response headers were detected."
+msgstr "Aucune en-tête de réponse du client de mise en cache détectée."
+
+#. translators: %d is the response time in milliseconds
+#: modules/site-health/audit-full-page-cache/load.php:114
+msgid "Median server response time was %1$s milliseconds. It should be less than the recommended %2$s milliseconds threshold."
+msgstr "Le temps de réponse médian du serveur était de %1$s millisecondes. Il doit être inférieur au seuil recommandé de %2$s millisecondes."
+
+#. translators: %d is the response time in milliseconds
+#: modules/site-health/audit-full-page-cache/load.php:107
+msgid "Median server response time was %1$s milliseconds. This is less than the recommended %2$s millisecond threshold."
+msgstr "Le temps de réponse médian du serveur était de %1$s millisecondes. C’est moins que le seuil recommandé de %2$s millisecondes."
+
+#: modules/site-health/audit-full-page-cache/load.php:100
+msgid "Server response time could not be determined. Verify that loopback requests are working."
+msgstr "Le temps de réponse du serveur n’a pas pu être déterminé. Vérifiez que les boucles de requêtes fonctionnent."
+
+#: modules/site-health/audit-full-page-cache/load.php:93
+msgid "Page caching is detected but the server response time is still slow"
+msgstr "La mise en cache des pages est détectée mais le temps de réponse du serveur est toujours lent"
+
+#: modules/site-health/audit-full-page-cache/load.php:91
+msgid "Page caching is not detected and the server response time is slow"
+msgstr "La mise en cache des pages n’est pas détectée et le temps de réponse du serveur est lent"
+
+#: modules/site-health/audit-full-page-cache/load.php:87
+msgid "Page caching is detected and the server response time is good"
+msgstr "La mise en cache des pages est détectée et le temps de réponse du serveur est bon"
+
+#: modules/site-health/audit-full-page-cache/load.php:84
+msgid "Page caching is not detected but the server response time is OK"
+msgstr "La mise en cache des pages n’est pas détectée mais le temps de réponse du serveur est OK"
+
+#. translators: 1 is error message, 2 is error code
+#: modules/site-health/audit-full-page-cache/load.php:72
+msgid "Unable to detect page caching due to possible loopback request problem. Please verify that the loopback request test is passing. Error: %1$s (Code: %2$s)"
+msgstr "Impossible de détecter la mise en cache de la page en raison d’un éventuel problème de demande de loopback. Veuillez vérifier que le test de demande de loopback est réussi. Erreur : %1$s (code : %2$s)"
+
+#: modules/site-health/audit-full-page-cache/load.php:68
+msgid "Unable to detect the presence of page caching"
+msgstr "Impossible de détecter la présence de la mise en cache des pages"
+
+#: modules/site-health/audit-full-page-cache/load.php:59
+msgid "Learn more about page caching"
+msgstr "En savoir plus sur la mise en cache des pages"
+
+#: modules/site-health/audit-full-page-cache/load.php:44
+msgid "Page caching is detected by looking for an active page caching plugin as well as making three requests to the homepage and looking for one or more of the following HTTP client caching response headers:"
+msgstr "La mise en cache des pages est détectée en recherchant une extension de mise en cache des pages active ainsi qu’en effectuant trois demandes sur la page d’accueil et en recherchant un ou plusieurs des en-têtes de réponse de mise en cache du client HTTP suivants :"
+
+#: modules/site-health/audit-full-page-cache/load.php:43
+msgid "Page caching enhances the speed and performance of your site by saving and serving static pages instead of calling for a page every time a user visits."
+msgstr "La mise en cache des pages améliore la vitesse et les performances de votre site en enregistrant et en diffusant des pages statiques au lieu d’appeler une page à chaque visite d’un internaute."
+
+#: modules/site-health/audit-full-page-cache/load.php:26
+msgid "Page caching"
+msgstr "Mise en cache des pages"
+
+#. translators: %s is the error message
+#: modules/images/dominant-color/class-dominant-color-image-editor-imagick.php:96
+msgid "Transparency detection failed: %s"
+msgstr "La détection de la transparence a échoué : %s"
+
+#. translators: %s is the error message.
+#: modules/images/dominant-color/class-dominant-color-image-editor-imagick.php:49
+msgid "Dominant color detection failed: %s"
+msgstr "La détection de la couleur dominante a échoué : %s"
+
+#: modules/images/dominant-color/class-dominant-color-image-editor-gd.php:62
+#: modules/images/dominant-color/class-dominant-color-image-editor-imagick.php:64
+msgid "Transparency detection no image found."
+msgstr "Détection de transparence : aucune image trouvée."
+
+#: modules/images/dominant-color/class-dominant-color-image-editor-gd.php:44
+#: modules/images/dominant-color/class-dominant-color-image-editor-imagick.php:43
+msgid "Dominant color detection failed."
+msgstr "La détection de la couleur dominante a échoué."
+
+#: modules/images/dominant-color/class-dominant-color-image-editor-gd.php:32
+#: modules/images/dominant-color/class-dominant-color-image-editor-imagick.php:32
+msgid "Dominant color detection no image found."
+msgstr "Détection de couleur dominante : aucune image trouvée."
+
+#: module-i18n.php:9
+msgctxt "module description"
+msgid "Adds a check for full page cache in Site Health status."
+msgstr "Ajoute une vérification du cache de la page complète dans l’état de santé du site."
+
+#: module-i18n.php:5
+msgctxt "module description"
+msgid "Adds support to store dominant color for an image and create a placeholder background with that color."
+msgstr "Ajoute la prise en charge pour stocker la couleur dominante d’une image et créer un texte indicatif d’arrière-plan avec cette couleur."
+
+#: module-i18n.php:4
+msgctxt "module name"
+msgid "Dominant Color"
+msgstr "Couleur dominante"
+
+#: modules/site-health/audit-autoloaded-options/load.php:93
+msgid "https://wordpress.org/support/article/optimization/#autoloaded-options"
+msgstr "https://fr.wordpress.org/support/article/optimization/#autoloaded-options"
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:22
+msgid "Persistent object cache"
+msgstr "Cache objet persistant"
+
+#. translators: Accessibility text.
+#: modules/site-health/webp-support/load.php:59
+msgid "WebP support can only be enabled by your hosting provider, so contact them for more information."
+msgstr "Le support WebP ne peut être uniquement activé par votre hébergeur, contactez-le pour plus d’informations."
+
+#: modules/site-health/webp-support/load.php:45
+msgid "The WebP image format produces images that are usually smaller in size than JPEG images, which can reduce page load time and consume less bandwidth."
+msgstr "Le format d’image WebP produit des images généralement plus petites que les images JPEG, ce qui réduit le temps de chargement des pages et la bande passante."
+
+#. translators: 1. Number of autoloaded options. 2. Autoloaded options size.
+#: modules/site-health/audit-autoloaded-options/load.php:76
+msgid "Your site has %1$s autoloaded options (size: %2$s) in the options table, which could cause your site to be slow. You can reduce the number of autoloaded options by cleaning up your site's options table."
+msgstr "Votre site contient %1$s options chargées automatiquement (taille : %2$s) dans le tableau des options, cela peut ralentir votre site. Vous pouvez réduire le nombre d’options en nettoyant le tableau des options du site."
+
+#: modules/site-health/audit-autoloaded-options/load.php:73
+msgid "Autoloaded options could affect performance"
+msgstr "Les options chargées automatiquement peuvent affecter les performances"
+
+#. translators: 1. Number of autoloaded options. 2. Autoloaded options size.
+#: modules/site-health/audit-autoloaded-options/load.php:51
+msgid "Your site has %1$s autoloaded options (size: %2$s) in the options table, which is acceptable."
+msgstr "Votre site contient %1$s options chargées automatiquement (taille : %2$s) dans le tableau des options, ce qui est acceptable."
+
+#: modules/site-health/audit-autoloaded-options/load.php:43
+msgid "Autoloaded options are acceptable"
+msgstr "Les options chargées automatiquement sont acceptables"
+
+#: modules/site-health/audit-autoloaded-options/load.php:40
+msgid "Autoloaded options are configuration settings for plugins and themes that are automatically loaded with every page load in WordPress. Having too many autoloaded options can slow down your site."
+msgstr "Les options chargées automatiquement sont des réglages de configuration pour les extensions et thèmes qui sont chargés à chaque visite de page dans WordPress. Avoir trop d’options  automatiquement chargées peut ralentir le site."
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:85
+msgid "Your hosting provider can tell you if persistent object caches are able to be enabled on your site."
+msgstr "Votre hébergeur peut dire si les caches d’objets persistants peuvent être activés sur votre site."
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:62
+msgid "A persistent object cache makes your site's database more efficient, resulting in faster load times because WordPress can retrieve your site's content and settings much more quickly."
+msgstr "Un cache d’objets persistant rend la base de données de votre site plus efficace, ce qui délivre des temps de chargement plus rapides car WordPress peut récupérer le contenu et les réglages de votre site plus rapidement."
+
+#: modules/site-health/audit-autoloaded-options/load.php:21
+msgid "Autoloaded options"
+msgstr "Options chargées automatiquement"
+
+#: modules/images/webp-uploads/helper.php:128
+msgid "At least one of the dimensions must be a positive number."
+msgstr "Au moins une des dimensions doit être un nombre positif."
+
+#: modules/images/webp-uploads/helper.php:116
+msgid "The original image file does not exists, subsizes are created out of the original image."
+msgstr "Le fichier image original n’existe pas, les déclinaisons sont créées à partir de l’image d’origine."
+
+#: module-i18n.php:13
+msgctxt "module description"
+msgid "Adds a check for autoloaded options in Site Health status."
+msgstr "Ajoute une vérification des options chargées automatiquement dans l’état de santé du site."
+
+#: modules/site-health/webp-support/load.php:55
+msgid "Your site does not support WebP"
+msgstr "Votre site ne prend pas en charge WebP"
+
+#: modules/site-health/webp-support/load.php:37
+msgid "Your site supports WebP"
+msgstr "Votre site prend en charge WebP"
+
+#: modules/site-health/webp-support/load.php:21
+msgid "WebP Support"
+msgstr "Prise en charge de WebP"
+
+#. translators: 1: Number of enqueued styles. 2.Styles size.
+#: modules/site-health/audit-enqueued-assets/load.php:288
+msgid "Your website enqueues %1$s style (size: %2$s). Try to reduce the number or to concatenate them."
+msgid_plural "Your website enqueues %1$s styles (size: %2$s). Try to reduce the number or to concatenate them."
+msgstr[0] "Votre site charge %1$s feuille de styles (poids : %2$s). Essayez de réduire leur nombre ou de les concaténer."
+msgstr[1] "Votre site charge %1$s feuilles de styles (poids : %2$s). Essayez de réduire leur nombre ou de les concaténer."
+
+#. translators: 1: Number of enqueued styles. 2.Styles size.
+#: modules/site-health/audit-enqueued-assets/load.php:248
+msgid "The amount of %1$s enqueued style (size: %2$s) is acceptable."
+msgid_plural "The amount of %1$s enqueued styles (size: %2$s) is acceptable."
+msgstr[0] "Le nombre de %1$s feuille de styles chargée (poids : %2$s) est acceptable."
+msgstr[1] "Le nombre de %1$s feuilles de styles chargées (poids : %2$s) est acceptable."
+
+#: modules/site-health/audit-enqueued-assets/load.php:237
+msgid "Enqueued styles"
+msgstr "Feuilles de styles chargées"
+
+#: modules/site-health/audit-enqueued-assets/load.php:214
+#: modules/site-health/audit-enqueued-assets/load.php:306
+msgid "Clean Test Cache"
+msgstr "Nettoyer le cache de test"
+
+#: modules/site-health/audit-autoloaded-options/load.php:94
+#: modules/site-health/audit-enqueued-assets/load.php:212
+#: modules/site-health/audit-enqueued-assets/load.php:304
+msgid "More info about performance optimization"
+msgstr "En savoir plus sur l’optimisation des performances"
+
+#: modules/site-health/audit-enqueued-assets/load.php:211
+#: modules/site-health/audit-enqueued-assets/load.php:303
+msgid "https://wordpress.org/support/article/optimization/"
+msgstr "https://fr.wordpress.org/support/article/optimization/"
+
+#. translators: 1: Number of enqueued styles. 2.Styles size.
+#: modules/site-health/audit-enqueued-assets/load.php:196
+msgid "Your website enqueues %1$s script (size: %2$s). Try to reduce the number or to concatenate them."
+msgid_plural "Your website enqueues %1$s scripts (size: %2$s). Try to reduce the number or to concatenate them."
+msgstr[0] "Votre site charge %1$s script (poids : %2$s). Essayez de réduire leur nombre ou de les concaténer."
+msgstr[1] "Votre site charge %1$s scripts (poids : %2$s). Essayez de réduire leur nombre ou de les concaténer."
+
+#. translators: 1: Number of enqueued styles. 2.Styles size.
+#: modules/site-health/audit-enqueued-assets/load.php:155
+msgid "The amount of %1$s enqueued script (size: %2$s) is acceptable."
+msgid_plural "The amount of %1$s enqueued scripts (size: %2$s) is acceptable."
+msgstr[0] "Le nombre de %1$s script chargé (poids : %2$s) est acceptable."
+msgstr[1] "Le nombre de %1$s scripts chargés (poids : %2$s) est acceptable."
+
+#: modules/site-health/audit-enqueued-assets/load.php:144
+msgid "Enqueued scripts"
+msgstr "Scripts chargés"
+
+#: modules/site-health/audit-enqueued-assets/load.php:119
+msgid "CSS assets"
+msgstr "Ressources CSS"
+
+#: modules/site-health/audit-enqueued-assets/load.php:115
+msgid "JS assets"
+msgstr "Ressources JS"
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:111
+msgid "You should use a persistent object cache"
+msgstr "Vous devriez utiliser un cache objet persistant"
+
+#. translators: Available object caching services.
+#: modules/object-cache/persistent-object-cache-health-check/load.php:90
+msgid "Your host appears to support the following object caching services: %s."
+msgstr "Votre hébergeur semble prendre en charge les services de cache objet suivants : %s."
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:78
+msgid "A persistent object cache is not required"
+msgstr "Un cache objet persistant n’est pas nécessaire."
+
+#. translators: Accessibility text.
+#. translators: The accessibility text.
+#: modules/object-cache/persistent-object-cache-health-check/load.php:69
+#: modules/site-health/audit-full-page-cache/load.php:61
+msgid "(opens in a new tab)"
+msgstr "(s’ouvre dans un nouvel onglet)"
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:67
+msgid "Learn more about persistent object caching."
+msgstr "En savoir plus sur la mise en cache objet persistante."
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:59
+msgid "A persistent object cache is being used"
+msgstr "Un cache objet persistant est utilisé"
+
+#. translators: Localized Support reference.
+#: modules/object-cache/persistent-object-cache-health-check/load.php:49
+msgid "https://wordpress.org/support/article/optimization/#object-caching"
+msgstr "https://fr.wordpress.org/support/article/optimization/#object-caching"
+
+#: modules/images/webp-uploads/helper.php:153
+msgid "The file key is not present on the image data"
+msgstr "La clé du fichier n’est pas présente dans les données de l’image."
+
+#: modules/images/webp-uploads/helper.php:111
+msgid "The provided mime type is not supported."
+msgstr "Le type mime fourni n’est pas pris en charge."
+
+#: modules/images/webp-uploads/helper.php:107
+msgid "The provided mime type is not allowed."
+msgstr "Le type mime fourni n’est pas autorisé."
+
+#: modules/images/webp-uploads/helper.php:186
+msgid "The image does not have a valid metadata."
+msgstr "L’image n’a pas de métadonnées valides."
+
+#: module-i18n.php:11
+msgctxt "module description"
+msgid "Adds a WebP support check in Site Health status."
+msgstr "Ajouter une vérification de la prise en charge de WebP dans les informations de Santé du site."
+
+#: module-i18n.php:15
+msgctxt "module description"
+msgid "Adds a CSS and JS resource check in Site Health status."
+msgstr "Ajouter une vérification des ressources CSS et JS dans les informations de Santé du site."
+
+#: module-i18n.php:17
+msgctxt "module description"
+msgid "Adds a persistent object cache check for sites with non-trivial amounts of data in Site Health status."
+msgstr "Ajouter une vérification du cache objet persistant pour les sites avec une quantité non négligeable de données sur l’écran d’état de santé du site."
+
+#: module-i18n.php:16
+msgctxt "module name"
+msgid "Persistent Object Cache Health Check"
+msgstr "Vérification du cache objet persistant dans Santé du site"
+
+#: module-i18n.php:7
+msgctxt "module description"
+msgid "Creates WebP versions for new JPEG image uploads if supported by the server."
+msgstr "Créer des versions WebP des images JPEG téléversées si le format est pris en charge par le serveur."
+
+#: module-i18n.php:6
+msgctxt "module name"
+msgid "WebP Uploads"
+msgstr "Téléversements WebP"
+
+#: admin/load.php:453
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/load.php:405
+msgid "Settings > Performance"
+msgstr "Réglages > Performances"
+
+#. translators: %s: settings page link
+#: admin/load.php:404
+msgid "You can now test upcoming WordPress performance features. Open %s to individually toggle the performance features included in the plugin."
+msgstr "Vous pouvez maintenant tester les fonctionnalités de performances à venir dans WordPress. Ouvrez %s pour activer/désactiver chacune des fonctionnalités de performances incluses dans l’extension."
+
+#: admin/load.php:197
+msgid "Object Cache"
+msgstr "Cache objet"
+
+#: admin/load.php:194
+msgid "Measurement"
+msgstr "Mesures"
+
+#: admin/load.php:191
+msgid "Site Health"
+msgstr "Santé du site"
+
+#: admin/load.php:188
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: admin/load.php:185
+msgid "Images"
+msgstr "Images"
+
+#. translators: %s: module name
+#: admin/load.php:150
+msgid "Enable %s"
+msgstr "Activer %s"
+
+#. translators: %s: module name
+#: admin/load.php:144
+msgid "Enable %s <strong>(experimental)</strong>"
+msgstr "Activer %s <strong>(expérimental)</strong>"
+
+#: admin/load.php:57
+msgid "Other"
+msgstr "Autres"
+
+#: admin/load.php:21
+#: modules/object-cache/persistent-object-cache-health-check/load.php:56
+#: modules/site-health/audit-autoloaded-options/load.php:46
+#: modules/site-health/audit-enqueued-assets/load.php:147
+#: modules/site-health/audit-enqueued-assets/load.php:240
+#: modules/site-health/audit-full-page-cache/load.php:49
+#: modules/site-health/webp-support/load.php:40
+msgid "Performance"
+msgstr "Performances"
+
+#: admin/load.php:20 admin/load.php:107
+msgid "Performance Modules"
+msgstr "Modules de performances"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/performance"
+msgstr "https://github.com/WordPress/performance"
+
+#. Plugin Name of the plugin
+#: admin/load.php:395
+msgid "Performance Lab"
+msgstr "Performance Lab"

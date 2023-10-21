@@ -1,0 +1,72 @@
+# Translation of Plugins - Integrate with Clientify - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Integrate with Clientify - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-03 08:16:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Integrate with Clientify - Stable (latest release)\n"
+
+#: includes/class-admin-settings.php:177
+msgid "No"
+msgstr "No"
+
+#: includes/class-admin-settings.php:173
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/class-admin-settings.php:141
+msgid "Put the settings for Clientify in order to integrate with WordPress"
+msgstr "Para poder integrarlo con WordPress, introduce los ajustes para Clientify."
+
+#: includes/class-admin-settings.php:106
+msgid "Clientify ChatBot ID"
+msgstr "ID del ChatBot  de Clientify"
+
+#: includes/class-admin-settings.php:98
+msgid "Clientify Web Analytics Code"
+msgstr "Código Web Analytics de Clientify"
+
+#: includes/class-admin-settings.php:90
+msgid "Active Clientify Web Analytics"
+msgstr "Activar Clientify Web Analytics"
+
+#: includes/class-admin-settings.php:83
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-admin-settings.php:66
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+#: includes/class-admin-settings.php:56
+msgid "Clientify Integration Settings"
+msgstr "Ajustes de integración con Clientify"
+
+#: includes/class-admin-settings.php:39 includes/class-admin-settings.php:40
+msgid "Clientify Integration"
+msgstr "Integración Clientify"
+
+#. Author URI of the plugin
+msgid "https://close.marketing"
+msgstr "https://close.marketing"
+
+#. Author of the plugin
+msgid "Closemarketing"
+msgstr "Closemarketing"
+
+#. Description of the plugin
+msgid "Integration for Clientify."
+msgstr "Integración con Clientify."
+
+#. Plugin URI of the plugin
+msgid "https://close.marketing/plugins/integrate-clientify/"
+msgstr "https://close.marketing/plugins/integrate-clientify/"
+
+#. Plugin Name of the plugin
+msgid "Integrate with Clientify"
+msgstr "Integrate with Clientify"

@@ -1,0 +1,690 @@
+# Translation of Plugins - FormsCRM - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - FormsCRM - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-12 16:08:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - FormsCRM - Stable (latest release)\n"
+
+#: includes/formscrm-library/class-forms-clientify.php:81
+msgid "Clientify Visitor Key"
+msgstr "Clave de visitante de Clientify"
+
+#: includes/crm-library/class-crmlib-acumbamail.php:190
+msgid "No data."
+msgstr "No hay datos."
+
+#: includes/crm-library/class-crmlib-acumbamail.php:131
+msgid "Dynamic list in field (use admin_label for fields)"
+msgstr "Lista dinámica en el campo (utiliza admin_label para los campos)"
+
+#: includes/formscrm-library/class-admin-options.php:153
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+#: includes/formscrm-library/class-admin-options.php:87
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/crm-library/class-crmlib-clientify.php:189
+msgid "Array of strings with the tags of the contact (value separated by comma)"
+msgstr "Array de cadenas con etiquetas del contacto (valores separados por coma)"
+
+#: includes/formscrm-library/class-woocommerce.php:199
+msgid "Field Settings"
+msgstr "Ajustes del campo"
+
+#: includes/formscrm-library/class-woocommerce.php:184
+msgid "Select your Module"
+msgstr "Selecciona tu módulo"
+
+#: includes/formscrm-library/class-woocommerce.php:182
+msgid "Module"
+msgstr "Módulo"
+
+#: includes/formscrm-library/class-woocommerce.php:170
+msgid "Odoo DB name"
+msgstr "Nombre de la DB Odoo"
+
+#: includes/formscrm-library/class-woocommerce.php:168
+msgid "Odoo Db"
+msgstr "Base datos Odoo"
+
+#: includes/formscrm-library/class-woocommerce.php:162
+msgid "API Sales of CRM"
+msgstr "API de ventas de CRM"
+
+#: includes/formscrm-library/class-woocommerce.php:160
+msgid "API Sales"
+msgstr "Ventas API"
+
+#: includes/formscrm-library/class-woocommerce.php:154
+msgid "API Password of CRM"
+msgstr "Contraseña API de CRM"
+
+#: includes/formscrm-library/class-woocommerce.php:152
+msgid "API Password"
+msgstr "Contraseña API"
+
+#: includes/formscrm-library/class-woocommerce.php:146
+msgid "Password of CRM"
+msgstr "Contraseña de CRM"
+
+#: includes/formscrm-library/class-woocommerce.php:128
+msgid "URL"
+msgstr "URL"
+
+#: includes/formscrm-library/class-woocommerce.php:120
+msgid "Select your CRM"
+msgstr "Selecciona tu CRM"
+
+#: includes/formscrm-library/class-woocommerce.php:118
+msgid "CRM"
+msgstr "CRM"
+
+#: includes/formscrm-library/class-woocommerce.php:112
+msgid "CRM Settings"
+msgstr "Ajustes del CRM"
+
+#: includes/formscrm-library/class-woocommerce.php:73
+msgid "User ID"
+msgstr "ID de usuario"
+
+#: includes/formscrm-library/class-woocommerce.php:72
+msgid "Customer ID"
+msgstr "ID del cliente"
+
+#: includes/formscrm-library/class-woocommerce.php:71
+msgid "Formatted Shipping Full Name"
+msgstr "Nombre completo de envío con formato"
+
+#: includes/formscrm-library/class-woocommerce.php:70
+msgid "Formatted Billing Full Name"
+msgstr "Nombre completo de facturación con formato"
+
+#: includes/formscrm-library/class-woocommerce.php:69
+msgid "Shipping Country"
+msgstr "País del envío"
+
+#: includes/formscrm-library/class-woocommerce.php:68
+msgid "Shipping Postcode"
+msgstr "Código Postal del envío"
+
+#: includes/formscrm-library/class-woocommerce.php:67
+msgid "Shipping State"
+msgstr "Provincia del envío"
+
+#: includes/formscrm-library/class-woocommerce.php:66
+msgid "Shipping City"
+msgstr "Ciudad del envío"
+
+#: includes/formscrm-library/class-woocommerce.php:65
+msgid "Shipping Address 2"
+msgstr "Dirección de envío 2"
+
+#: includes/formscrm-library/class-woocommerce.php:64
+msgid "Shipping Address 1"
+msgstr "Dirección de envio 1"
+
+#: includes/formscrm-library/class-woocommerce.php:63
+msgid "Shipping Company"
+msgstr "Empresa al envío"
+
+#: includes/formscrm-library/class-woocommerce.php:62
+msgid "Shipping Last name"
+msgstr "Apellidos de envío"
+
+#: includes/formscrm-library/class-woocommerce.php:61
+msgid "Shipping First name"
+msgstr "Nombre de envío"
+
+#: includes/formscrm-library/class-woocommerce.php:60
+msgid "Billing Phone"
+msgstr "Teléfono de facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:59
+msgid "Billing Email"
+msgstr "Correo electrónico de facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:58
+msgid "Billing Country"
+msgstr "País de facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:57
+msgid "Billing Postcode"
+msgstr "Código postal de facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:56
+msgid "Billing State"
+msgstr "Provincia de facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:55
+msgid "Billing City"
+msgstr "Ciudad de facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:54
+msgid "Billing Address 2"
+msgstr "Dirección de facturación 2"
+
+#: includes/formscrm-library/class-woocommerce.php:53
+msgid "Billing Address 1"
+msgstr "Dirección de facturación 1"
+
+#: includes/formscrm-library/class-woocommerce.php:52
+msgid "Billing Company"
+msgstr "Empresa de facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:51
+msgid "Billing Last name"
+msgstr "Apellidos facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:50
+msgid "Billing First name"
+msgstr "Nombre de facturación"
+
+#: includes/formscrm-library/class-woocommerce.php:49
+msgid "Customer Note"
+msgstr "Nota del cliente"
+
+#: includes/crm-library/class-crmlib-clientify.php:235
+msgid "Linkedin Picture URL"
+msgstr "URL de la imagen de Linkedin"
+
+#: includes/crm-library/class-crmlib-clientify.php:230
+msgid "Approximate employees"
+msgstr "Número aproximado de empleados"
+
+#: includes/crm-library/class-crmlib-clientify.php:229
+msgid "Founded"
+msgstr "Fundado"
+
+#: includes/crm-library/class-crmlib-clientify.php:228
+msgid "Twitter ID"
+msgstr "ID Twitter"
+
+#: includes/crm-library/class-crmlib-clientify.php:227
+msgid "Facebook ID"
+msgstr "ID de Facebook"
+
+#: includes/crm-library/class-crmlib-clientify.php:226
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: includes/crm-library/class-crmlib-clientify.php:225
+msgid "Linkedin URL"
+msgstr "URL de LinkedIn"
+
+#: includes/crm-library/class-crmlib-clientify.php:224
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: includes/crm-library/class-crmlib-clientify.php:223
+msgid "Picture URL"
+msgstr "URL de la imagen"
+
+#: includes/crm-library/class-crmlib-clientify.php:222
+msgid "Rank Manual"
+msgstr "Rango manual"
+
+#: includes/crm-library/class-crmlib-clientify.php:221
+msgid "Rank"
+msgstr "Rango"
+
+#: includes/crm-library/class-crmlib-clientify.php:219
+msgid "Phone of company"
+msgstr "Teléfono de empresa"
+
+#: includes/crm-library/class-crmlib-clientify.php:218
+msgid "Email of company"
+msgstr "Correo electrónico de la empresa"
+
+#: includes/crm-library/class-crmlib-clientify.php:216
+msgid "Number of employees"
+msgstr "Número de empleados"
+
+#: includes/crm-library/class-crmlib-clientify.php:215
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/crm-library/class-crmlib-clientify.php:213
+msgid "Business Name"
+msgstr "Nombre del negocio"
+
+#: includes/crm-library/class-crmlib-clientify.php:212
+msgid "Sector of company"
+msgstr "Sector de la empresa"
+
+#: includes/crm-library/class-crmlib-clientify.php:211
+msgid "Sector"
+msgstr "Sector"
+
+#: includes/crm-library/class-crmlib-clientify.php:209
+msgid "url of the Linkedin picture for the contact"
+msgstr "url de la foto de Linkedin del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:208
+msgid "url of the twitter picture for the contact"
+msgstr "url de la foto de twitter del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:207
+msgid "url of the facebook picture for the contact"
+msgstr "url de la foto de facebook del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:206
+msgid "Linkedin user id"
+msgstr "ID de usuario de Linkedin"
+
+#: includes/crm-library/class-crmlib-clientify.php:205
+msgid "Facebook id"
+msgstr "ID de Facebook"
+
+#: includes/crm-library/class-crmlib-clientify.php:204
+msgid "Google id"
+msgstr "ID de Google"
+
+#: includes/crm-library/class-crmlib-clientify.php:203
+msgid "Id of the contact in twitter"
+msgstr "Id del contacto en twitter"
+
+#: includes/crm-library/class-crmlib-clientify.php:202
+msgid "Skype username for the contact"
+msgstr "Nombre de usuario de Skype del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:201
+msgid "url of the klout picture for the contact"
+msgstr "url de la foto de klout del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:200
+msgid "Foursquare id"
+msgstr "ID de Foursquare"
+
+#: includes/crm-library/class-crmlib-clientify.php:199
+msgid "URL of the Google Plus site for the contact"
+msgstr "URL del sitio de Google Plus del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:198
+msgid "URL of the Linkedin site for the contact"
+msgstr "URL del sitio de Linkedin para el contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:197
+msgid "url of the facebook site for the contact"
+msgstr "url de la página de facebook del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:196
+msgid "URL of the twitter site for the contact"
+msgstr "URL del sitio de Twitter del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:195
+msgid "URL of the Pinterest site of the contact"
+msgstr "URL del sitio de Pinterest del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:194
+msgid "Birthday date"
+msgstr "Fecha de nacimiento"
+
+#: includes/crm-library/class-crmlib-clientify.php:193
+msgid "Contact type"
+msgstr "Tipo de contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:192
+msgid "Contact Medium"
+msgstr "Medio del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:191
+msgid "Contact source"
+msgstr "Origen del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:190
+msgid "True if the user accepted the GDPR false if not"
+msgstr "Verdadero si el usuario aceptó el GDPR Falso si no"
+
+#: includes/crm-library/class-crmlib-clientify.php:188
+#: includes/crm-library/class-crmlib-clientify.php:214
+msgid "Taxpayer identification nummber"
+msgstr "Número de identificación fiscal"
+
+#: includes/crm-library/class-crmlib-clientify.php:186
+msgid "Lead scoring points"
+msgstr "Puntos de puntuación del potencial"
+
+#: includes/crm-library/class-crmlib-clientify.php:185
+msgid "Message text to be shown in the contact wall"
+msgstr "Texto del mensaje que se mostrará en el muro de contactos"
+
+#: includes/crm-library/class-crmlib-clientify.php:184
+#: includes/crm-library/class-crmlib-clientify.php:232
+msgid "Remarks"
+msgstr "Observaciones"
+
+#: includes/crm-library/class-crmlib-clientify.php:183
+#: includes/crm-library/class-crmlib-clientify.php:231
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/crm-library/class-crmlib-clientify.php:182
+#: includes/crm-library/class-crmlib-clientify.php:233
+msgid "Summary"
+msgstr "Resumen"
+
+#: includes/crm-library/class-crmlib-clientify.php:181
+msgid "Contact title"
+msgstr "Título del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:180
+msgid "url of the picture for the contact"
+msgstr "url de la foto del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:179
+msgid "Stores the contact status identifier"
+msgstr "Almacena el identificador del estado del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:178
+#: includes/crm-library/class-crmlib-clientify.php:220
+msgid "Website"
+msgstr "Sitio web"
+
+#: includes/crm-library/class-crmlib-clientify.php:176
+msgid "Company name"
+msgstr "Nombre de la empresa"
+
+#: includes/crm-library/class-crmlib-clientify.php:174
+msgid "Contact last name"
+msgstr "Apellido del contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:173
+msgid "contact first name"
+msgstr "nombre de contacto"
+
+#: includes/crm-library/class-crmlib-clientify.php:172
+#: includes/crm-library/class-crmlib-clientify.php:217
+msgid "username of the owner of the contact"
+msgstr "nombre de usuario del propietario del contacto"
+
+#: includes/formscrm-library/class-contactform7.php:192
+msgid "Name of your field"
+msgstr "Nombre de tu campo"
+
+#: includes/formscrm-library/class-contactform7.php:182
+msgid "Form Field"
+msgstr "Campo del formulario"
+
+#: includes/formscrm-library/class-contactform7.php:181
+msgid "Field CRM"
+msgstr "Campo del CRM"
+
+#: includes/formscrm-library/class-contactform7.php:145
+#: includes/formscrm-library/class-contactform7.php:152
+msgid "CRM Sales"
+msgstr "Ventas CRM"
+
+#: includes/formscrm-library/class-contactform7.php:144
+#: includes/formscrm-library/class-contactform7.php:151
+msgid "API Sales:"
+msgstr "Ventas de la API:"
+
+#: includes/formscrm-library/class-contactform7.php:138
+msgid "CRM API Password"
+msgstr "Contraseña API"
+
+#: includes/formscrm-library/class-contactform7.php:137
+msgid "API Password:"
+msgstr "Contraseña de la API:"
+
+#: includes/formscrm-library/class-contactform7.php:131
+msgid "CRM Password"
+msgstr "Contraseña CRM"
+
+#: includes/formscrm-library/class-contactform7.php:130
+msgid "Password:"
+msgstr "Contraseña"
+
+#: includes/formscrm-library/class-contactform7.php:124
+#: includes/formscrm-library/class-woocommerce.php:138
+msgid "CRM Username"
+msgstr "Nombre de usuario"
+
+#: includes/formscrm-library/class-contactform7.php:116
+#: includes/formscrm-library/class-contactform7.php:123
+msgid "URL:"
+msgstr "URL:"
+
+#: includes/formscrm-library/class-admin-options.php:145
+msgid "Buy"
+msgstr "Comprar"
+
+#: includes/formscrm-library/class-admin-options.php:152
+msgid "View all addons"
+msgstr "Ver todas las extensiones"
+
+#: includes/formscrm-library/debug.php:99
+#: includes/formscrm-library/helpers-functions.php:98
+msgid "curl is not Installed in your server. It is needed to work with CRM Libraries."
+msgstr "curl no está instalado en tu servidor. Es necesario para las librerías CRM."
+
+#: includes/formscrm-library/debug.php:79
+#: includes/formscrm-library/helpers-functions.php:78
+msgid "Lead Data"
+msgstr "Datos del cliente potencial"
+
+#: includes/formscrm-library/debug.php:79
+#: includes/formscrm-library/helpers-functions.php:78
+msgid "There was an error creating the Lead in the CRM"
+msgstr "Hubo un error al crear el cliente potencial en el CRM"
+
+#: includes/formscrm-library/debug.php:78
+#: includes/formscrm-library/helpers-functions.php:77
+msgid "Error creating the Lead"
+msgstr "Error al crear un cliente potencial"
+
+#: includes/formscrm-library/debug.php:25
+#: includes/formscrm-library/helpers-functions.php:25
+msgid "Message Debug Mode"
+msgstr "Modo de depuración"
+
+#: includes/formscrm-library/class-gravityforms.php:273
+msgid "Associate your CRM custom fields to the appropriate Gravity Form fields by selecting the appropriate form field from the list."
+msgstr "Asocia los campos CRM con los campos de Gravity Forms seleccionando de la primera y la última."
+
+#: includes/formscrm-library/class-gravityforms.php:269
+#: includes/formscrm-library/class-gravityforms.php:273
+msgid "Map Fields"
+msgstr "Asignar campos"
+
+#: includes/formscrm-library/class-gravityforms.php:261
+msgid "CRM Module"
+msgstr "Módulo CRM"
+
+#: includes/formscrm-library/class-gravityforms.php:257
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr "Introduce el nombre del conector único para identificar esta configuración."
+
+#: includes/formscrm-library/class-gravityforms.php:248
+msgid "CRM Feed"
+msgstr "Feed CRM"
+
+#: includes/formscrm-library/class-gravityforms.php:196
+msgid "Use Settings Page"
+msgstr "Utiliza a página de ajustes"
+
+#: includes/formscrm-library/class-gravityforms.php:195
+msgid "We are unable to login to CRM."
+msgstr "No se ha podido iniciar sesión al CRM."
+
+#: includes/formscrm-library/class-gravityforms.php:173
+msgid "Find a Password or API key depending of CRM."
+msgstr "Encuentra la contraseña API en el perfil de usuario en el CRM."
+
+#: includes/formscrm-library/class-gravityforms.php:151
+msgid "Odoo DB Name"
+msgstr "Nombre DB Odoo"
+
+#: includes/formscrm-library/class-gravityforms.php:142
+msgid "\"Password\"\"SecurityKey\" Go to My Settings / Reset my Security Key."
+msgstr "«Contraseña»«Clave de seguridad» Ve a a «Mis ajustes / restablecer mi clave secreta»."
+
+#: includes/formscrm-library/class-gravityforms.php:139
+msgid "Password and Security Key"
+msgstr "Contraseña y clave de seguridad"
+
+#: includes/formscrm-library/class-gravityforms.php:130
+msgid "Find the API Password in the profile of the user in CRM."
+msgstr "Encuentra la contraseña API en el perfil de usuario en el CRM."
+
+#: includes/formscrm-library/class-gravityforms.php:127
+msgid "API Password for User"
+msgstr "Contraseña API para el usuario"
+
+#: includes/formscrm-library/class-gravityforms.php:118
+msgid "Use the password of the actual user."
+msgstr "Utiliza la contraseña del usuario actual."
+
+#: includes/formscrm-library/class-gravityforms.php:115
+#: includes/formscrm-library/class-woocommerce.php:144
+msgid "Password"
+msgstr "Contraseña"
+
+#: includes/formscrm-library/class-gravityforms.php:104
+#: includes/formscrm-library/class-woocommerce.php:136
+msgid "Username"
+msgstr "Usuario"
+
+#: includes/formscrm-library/class-gravityforms.php:95
+msgid "Use the URL with http and the ending slash /."
+msgstr "Utiliza la URL con http y terminando con la barra /."
+
+#: includes/formscrm-library/class-contactform7.php:117
+#: includes/formscrm-library/class-gravityforms.php:92
+#: includes/formscrm-library/class-woocommerce.php:130
+msgid "CRM URL"
+msgstr "CRM URL"
+
+#: includes/formscrm-library/class-gravityforms.php:84
+msgid "CRM Type"
+msgstr "Tipo CRM"
+
+#: includes/formscrm-library/class-gravityforms.php:80
+msgid "Use this connector with CRM software. Use Gravity Forms to collect customer information and automatically add them to your CRM Leads."
+msgstr "Utiliza este conector con el software CRM. Utiliza Gravity Forms para recoger información del cliente y añadirla automáticamente a tus clientes potenciales CRM."
+
+#: includes/formscrm-library/class-gravityforms.php:79
+msgid "CRM Account Information"
+msgstr "Información de la cuenta CRM"
+
+#: includes/crm-library/class-crmlib-holded.php:255
+msgid "SEPA Date"
+msgstr "Datos SEPA"
+
+#: includes/crm-library/class-crmlib-holded.php:250
+msgid "SEPA Ref"
+msgstr "Referencia SEPA"
+
+#: includes/crm-library/class-crmlib-holded.php:245
+msgid "SWIFT"
+msgstr "SWIFT"
+
+#: includes/crm-library/class-crmlib-holded.php:240
+msgid "IBAN"
+msgstr "IBAN"
+
+#: includes/crm-library/class-crmlib-clientify.php:234
+#: includes/crm-library/class-crmlib-holded.php:233
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: includes/crm-library/class-crmlib-holded.php:228
+msgid "More Info"
+msgstr "Más información"
+
+#: includes/crm-library/class-crmlib-clientify.php:175
+#: includes/crm-library/class-crmlib-holded.php:218
+msgid "Phone"
+msgstr "Teléfono"
+
+#: includes/crm-library/class-crmlib-clientify.php:177
+#: includes/crm-library/class-crmlib-holded.php:213
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/crm-library/class-crmlib-holded.php:208
+msgid "Country"
+msgstr "País"
+
+#: includes/crm-library/class-crmlib-holded.php:203
+msgid "Province"
+msgstr "Provincia"
+
+#: includes/crm-library/class-crmlib-holded.php:198
+msgid "ZIP"
+msgstr "Código postal"
+
+#: includes/crm-library/class-crmlib-holded.php:193
+msgid "City"
+msgstr "Ciudad"
+
+#: includes/crm-library/class-crmlib-holded.php:188
+#: includes/crm-library/class-crmlib-holded.php:223
+msgid "Mobile"
+msgstr "Móvil"
+
+#: includes/crm-library/class-crmlib-holded.php:183
+msgid "Address"
+msgstr "Dirección"
+
+#: includes/crm-library/class-crmlib-holded.php:178
+msgid "VAT No"
+msgstr "Número NIF/CIF"
+
+#: includes/crm-library/class-crmlib-holded.php:173
+msgid "Fiscal name"
+msgstr "Nombre fiscal"
+
+#: includes/crm-library/class-crmlib-holded.php:168
+#: includes/formscrm-library/class-gravityforms.php:253
+#: includes/formscrm-library/class-gravityforms.php:257
+#: includes/formscrm-library/class-gravityforms.php:298
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/crm-library/class-crmlib-acumbamail.php:153
+#: includes/crm-library/class-crmlib-clientify.php:169
+#: includes/crm-library/class-crmlib-holded.php:147
+msgid "Module active:"
+msgstr "Módulo activo:"
+
+#: includes/formscrm-library/class-admin-options.php:119
+msgid "CRMs supported:"
+msgstr "CRMs compatibles:"
+
+#: includes/formscrm-library/class-admin-options.php:113
+msgid "Forms supported:"
+msgstr "Formularios compatibles:"
+
+#. Author URI of the plugin
+msgid "https://close.marketing"
+msgstr "https://close.marketing"
+
+#. Author of the plugin
+msgid "Closemarketing"
+msgstr "Closemarketing"
+
+#. Description of the plugin
+msgid "Connects Forms with CRM."
+msgstr "Conecta formularios con CRM."
+
+#. Plugin URI of the plugin
+msgid "https://closemarketing.net/formscrm"
+msgstr "https://closemarketing.net/formscrm"
+
+#. Plugin Name of the plugin
+#: includes/formscrm-library/class-admin-options.php:59
+#: includes/formscrm-library/class-admin-options.php:60
+#: includes/formscrm-library/class-admin-options.php:76
+#: includes/formscrm-library/class-contactform7.php:48
+#: includes/formscrm-library/class-woocommerce.php:84
+msgid "FormsCRM"
+msgstr "FormsCRM"
