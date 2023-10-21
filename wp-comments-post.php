@@ -10,7 +10,6 @@ if ( 'POST' !== $_SERVER['REQUEST_METHOD'] ) {
 	if ( ! in_array( $protocol, array( 'HTTP/1.1', 'HTTP/2', 'HTTP/2.0', 'HTTP/3' ), true ) ) {
 		$protocol = 'HTTP/1.0';
 	}
-
 	header( 'Allow: POST' );
 	header( "$protocol 405 Method Not Allowed" );
 	header( 'Content-Type: text/plain' );
@@ -21,7 +20,6 @@ if ( 'POST' !== $_SERVER['REQUEST_METHOD'] ) {
 require __DIR__ . '/wp-load.php';
 
 nocache_headers();
-
 $comment = wp_handle_comment_submission( wp_unslash( $_POST ) );
 if ( is_wp_error( $comment ) ) {
 	$data = (int) $comment->get_error_data();
